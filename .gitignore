@@ -1,0 +1,15 @@
+# Backend (ASP.NET Core)
+bin/
+obj/
+*.dll
+*.pdb
+
+# Frontend (React, Node.js)
+node_modules/
+build/
+dist/
+
+# General
+.vs/
+.env
+.DS_Store
